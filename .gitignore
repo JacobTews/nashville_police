@@ -1,3 +1,6 @@
+# large files
+./data/Metro_Nashville_Police_Department_Calls_for_Service.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
